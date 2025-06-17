@@ -50,6 +50,7 @@ My research focuses on wireless power transfer (WPT), with an emphasis on electr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Fengxian-wang&theme=default&show_icons=true" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Fengxian-wang&theme=default&show_icons=true" style="margin-right:10px;" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fengxian-wang&layout=compact&theme=default" />
 </div>
+
